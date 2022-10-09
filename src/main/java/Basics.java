@@ -142,6 +142,7 @@ public class Basics {
          *                You may also assume that to_split always has 7 words
          *                separated by spaces, so no loops are required, though
          *                you may use them if you wish.
+         *
          */
         StringBuilder ret = new StringBuilder();
 
